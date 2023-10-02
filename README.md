@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Estatísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguedes2&count_private=true&show_icons=true&theme=react)
+
 ## Estou aprendendo
 <div display="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40px"/>
