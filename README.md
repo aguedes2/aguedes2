@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
           
 ## snake
-![Snake](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/aguedes2/aguedes2/blob/output/github-contribution-grid-snake.svg)
