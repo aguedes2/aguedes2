@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 
 
 ## Contatos
-
+<p align="right">
+          <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+          <a href="#"><img src-"https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
           
 ## snake
 ![Snake](https://github.com/aguedes2/aguedes2/blob/output/github-contribution-grid-snake.svg)
