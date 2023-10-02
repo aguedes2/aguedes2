@@ -15,8 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguedes2&count_private=true&show_icons=true&theme=react)
+## Contatos
+<p align="right">
+          <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+          <a href="https://guedesinfo.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>      
+</p>
 
 ## Estou aprendendo
 <div display="flex">
@@ -26,14 +31,8 @@ Here are some ideas to get you started:
 </div>
 
 
-## Contatos
-<p align="right">
-          <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-          <a href="https://guedesinfo.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-          
-</p>
+## Estatísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguedes2&count_private=true&show_icons=true&theme=react)
           
 ## snake
 ![Snake](https://github.com/aguedes2/aguedes2/blob/output/github-contribution-grid-snake.svg)
