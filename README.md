@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 
 
 ## Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguedes2&count_private=true&show_icons=true&theme=react)
+
+<p align="center" width="50%"><img width="50%"  src="https://github-readme-stats.vercel.app/api?username=aguedes2&show_icons=true&theme=react&border_radius=10"/></p>
+
+
+  <p align="center"><a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=aguedes2&theme=react&border_radius=8&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=500(https://git.io/streak-stats)"></a></p>
           
 ## snake
 ![Snake](https://github.com/aguedes2/aguedes2/blob/output/github-contribution-grid-snake.svg)
